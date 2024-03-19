@@ -1,0 +1,14 @@
+.mainApp{
+    .header{
+        padding:20px;
+        background-color: #027cd5 !important;
+        width:100%;
+        img{
+            max-width: 200px;
+        }
+    }
+}
+
+.min-h-screen{
+    margin-top:0 !important;
+}
